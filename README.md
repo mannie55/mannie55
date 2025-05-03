@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Nnamdi
 
-<!--
-**mannie55/mannie55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend & Web3 Developer**  
+Core Dev @ Pelargo (Sui Blockchain)  
+Passionate about building real-world solutions with Python, Django, and Move.
 
-Here are some ideas to get you started:
+### 🛠️ Technologies I Work With
+- Python, Django, REST APIs
+- Move language, Sui Blockchain
+- JavaScript / TypeScript, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Current Project
+**[Pelargo](#)** – A decentralized freelance platform on the Sui blockchain.
+
+### 📫 Let's Connect
+- [LinkedIn](https://www.linkedin.com/in/nnamdiogbonna/)
+- [Twitter](x.com/mannnie55)
+- [Email](mailto:mannnie55@gmail.com)
