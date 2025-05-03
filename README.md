@@ -12,6 +12,8 @@ Passionate about building real-world solutions with Python, Django, and Move.
 ### 🔭 Current Project
 **[Pelargo](#)** – A decentralized freelance platform on the Sui blockchain.
 
+
+I believe that building solutions should be both functional and personal, and I want to use software to solve problems that matter.
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/nnamdiogbonna/)
 - [Twitter](x.com/mannnie55)
