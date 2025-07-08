@@ -13,6 +13,8 @@
   </p>
 
   <!-- Contact & Social Links -->
+
+  <sub>Tip: Ctrl+Click (or Cmd+Click) on links to open in a new tab.</sub>
   <p align="center">
     <a href="https://www.linkedin.com/in/nnamdiogbonna/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
