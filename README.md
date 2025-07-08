@@ -3,7 +3,7 @@
 <!-- Header Section with Dynamic Typing Effect -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=18BB00&width=435&lines=Hi+there%2C+I'm+mannnie55" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=25&duration=3000&pause=1000&color=18BB00&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+mannnie55;Backend+Engr+%7C+AI+%7C+Systems+Thinker+%7C+Culture-Driven+Creator;Build+with+purpose%2C+think+in+systems%2C+and+never+ship+what+you+don%E2%80%99t+understand." alt="Typing SVG" />
   </h1>
   
   <!-- Professional Tagline -->
@@ -36,7 +36,7 @@
 <details>
 
 
-> *"Im 100% always currious."*
+> *"I'm 100% always curious."*
 
 - **Background:** Graphics design, UI/UX.
 - **Specialty:** Backend Web development
@@ -59,7 +59,7 @@
 
 ---
 
-## 🛠️ **Technical Arsenal**
+## 🛠️ **Technnology used**
 
 ### **Backend Architecture**
 <p align="left">
@@ -160,8 +160,6 @@
 
 </div>
 
-## 📚 **Currently Learning**
-- Javascript/React
 
 <table>
 <tr>
@@ -183,6 +181,9 @@
 
 </td>
 <td width="50%">
+  
+## 📚 **Currently Learning**
+- Javascript/React
 
 **🎵 Domain Expertise:**
 - AI Integrations
