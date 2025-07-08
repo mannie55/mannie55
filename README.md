@@ -3,7 +3,7 @@
 <!-- Header Section with Dynamic Typing Effect -->
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=3000&pause=5000&color=2E8B57&center=true&vCenter=true&width=600&height=70&lines=Hello%2C+I'm+Collekta+%F0%9F%91%8B;Public+Servant+%7C+Music+Producer+%7C+Backend+Engineer+%7C+Metadata+Specialist;Building+Africa's+Creative+Infrastructure" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&pause=1000&color=18BB00&width=435&lines=Hi+there%2C+I'm+mannnie55" alt="Typing SVG" />
   </h1>
   
   <!-- Professional Tagline -->
