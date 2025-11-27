@@ -18,7 +18,7 @@
     <a href="https://www.linkedin.com/in/nnamdiogbonna/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="mailto:mannnie55@gmail.com" target="_blank" rel="noopener noreferrer">
+    <a href="mailto:ogbonnannamdi.pro@gmail.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
     </a>
     <a href="https://x.com/mannnie55" target="_blank" rel="noopener noreferrer">
