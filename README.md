@@ -24,7 +24,10 @@
     <a href="https://x.com/mannnie55" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
-    [![first-timers-only](https://img.shields.io/badge/first--timers--only-friendly-blue.svg?style=flat-square)](https://www.firsttimersonly.com/)
+    <a href="https://www.firsttimersonly.com/" target="_blank" rel="noopener noreferrer">
+   <img src="https://img.shields.io/badge/first--timers--only-friendly-blue?style=for-the-badge" alt="first-timers-only" />
+</a>
+
   </p>
 </div>
 
