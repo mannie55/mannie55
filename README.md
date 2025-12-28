@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=18BB00&background=FFFFFF00&center=true&vCenter=true&width=600&height=65&lines=Hi+I'm+Chris;Fullstack+Engineer+%7C+Open+Source+Contributor;Simplifying+complexities+with+code." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=18BB00&background=FFFFFF00&center=true&vCenter=true&width=600&height=65&lines=Hi+I'm+Chris;A+Backend+focused+Fullstack+developer;Simplifying+complexities+with+code." alt="Typing SVG" />
   </h1>
 
   <p align="center">
