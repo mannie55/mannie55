@@ -1,18 +1,15 @@
 # Welcome to my World
 
-<!-- Header Section with Dynamic Typing Effect -->
 <div align="center">
   <h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=18BB00&background=FFFFFF00&center=true&vCenter=true&width=600&height=65&lines=Hi+I'm+Chris;Fullstack+Engineer+%7C+Open+Source+Contributor;Simplifying+complexities+with+code." alt="Typing SVG" />
   </h1>
 
-  <!-- Professional Tagline -->
   <p align="center">
     <em>🧠 Building human-centered systems for focus, fairness, and future-ready growth</em><br>
     <em>🔧 Where deep thinking meets clean code, and culture shapes the architecture</em>
   </p>
 
-  <!-- Contact & Social Links -->
   <sub>Tip: Ctrl+Click (or Cmd+Click) on links to open in a new tab.</sub>
   <p align="center">
     <a href="https://www.linkedin.com/in/nnamdiogbonna/" target="_blank" rel="noopener noreferrer">
@@ -25,9 +22,8 @@
       <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
     </a>
     <a href="https://www.firsttimersonly.com/" target="_blank" rel="noopener noreferrer">
-   <img src="https://img.shields.io/badge/first--timers--only-friendly-blue?style=for-the-badge" alt="first-timers-only" />
-</a>
-
+      <img src="https://img.shields.io/badge/first--timers--only-friendly-blue?style=for-the-badge" alt="first-timers-only" />
+    </a>
   </p>
 </div>
 
@@ -39,24 +35,12 @@
 <summary><b>👤 About Me</b></summary>
 
 > *"I'm 100% always curious."*
-
-- **Background:** Graphics design, UI/UX, comic editing  
+ 
 - **Specialty:** Full-stack engineering (Python/Django, JavaScript/React, Node.js, Next.js)  
 - **Passion:** Open source contributions, clean architecture, and systems that empower people  
 
 </details>
 
-<details>
-<summary><b>🏗️ Systems Thinking Approach</b></summary>
-<br>
-
-**Core Principles:**
-- **Domain Modeling First:** Understand the problem deeply before implementation  
-- **Outcome-Oriented Planning:** Begin with the end goal, align every step  
-- **Cultural Context:** Build with lived experience and empathy  
-- **Ethical Design:** Systems should protect and empower creators, not exploit them  
-
-</details>
 
 ---
 
@@ -78,8 +62,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <!-- Consider adding TypeScript icon here -->
-</p>
+  </p>
 
 ### **API Integration**
 <p align="left">
@@ -87,6 +70,15 @@
   <img src="https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white&labelColor=gray"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
   <img src="https://img.shields.io/badge/OpenAPI-6BA539?style=for-the-badge&logo=openapi-initiative&logoColor=white"/>
+</p>
+
+### **AI & GenAI Stack**
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ### **DevOps**
@@ -106,7 +98,7 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <!-- Consider adding Figma, Postman, or Webflow icons here -->
+  <img src="https://img.shields.io/badge/GitHub_Copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white"/>
 </p>
 
  ---
